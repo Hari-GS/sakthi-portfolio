@@ -76,7 +76,7 @@ const Hero = () => {
               Contact <FiMail />
             </a>
             <a
-              href="/resume.pdf" // put the actual path of your resume file in the public folder
+              href="/Sakthi-Resume.pdf" // put the actual path of your resume file in the public folder
               download="Sakthi_Resume.pdf" // optional: rename file when downloading
               className="flex items-center gap-2 border border-gray-500 text-gray-300 px-5 py-2 rounded-lg hover:bg-gray-700 transition"
             >

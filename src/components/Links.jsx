@@ -39,8 +39,9 @@ const Links = () => {
 
         {/* Resume Link */}
         <motion.a
-          href="/resume.pdf" // replace with actual resume file path
+          href="/Sakthi-Resume.pdf" // replace with actual resume file path
           target="_blank"
+          download="Sakthi_Resume.pdf" // optional: rename file when downloading
           rel="noopener noreferrer"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
